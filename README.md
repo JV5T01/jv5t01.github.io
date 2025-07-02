@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# This repository is for my website! It is just to test it at the moment, I may make it public. (if you see this, it is infact public.)
+### This repository is for my website! It is just to test it at the moment, I may make it public. (if you see this, it is infact public.)
 
 <!--
 **JV5T01/jv5t01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
